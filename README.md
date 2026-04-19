@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  
+<br><br>
+<a href="https://www.jfladas.com">
+  <img src="https://github.com/jfladas/portfolio/blob/main/src/assets/portfoliotitle.png?raw=true" alt="portfolio jfladas" width="650" />
+</a>
 
-<!--
-**jfladas/jfladas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+<a href="https://www.jfladas.com">
+  <img src="https://github.com/jfladas/portfolio/blob/main/src/assets/gotosite.png?raw=true" alt="go to portfolio" width="250" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br><br><br>
+
+<img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/jfladas?cardType=github&theme=github-dark&fontFamily=Funnel%20Sans&preferLogin=false&Background=050028&Title=FFFFFF&borderRadius=10&Text=B9FFF3&Ring=2E00C0"
+    alt="GitHub stats for jfladas"
+    width="450"
+/>
+
+<img
+  src="https://spotify-recently-played-readme.vercel.app/api?user=rn16ees9l59zxvg9zzptiuwb7&unique=1"
+  alt="Recently played on Spotify"
+  width="450"
+/>
+
+
+
+</div>
